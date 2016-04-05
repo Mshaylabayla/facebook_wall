@@ -1,4 +1,7 @@
-.container
-{
+.container {
 	max-width: 768px;
+}
+
+.post-row {
+    margin: 20px 0px;
 }
